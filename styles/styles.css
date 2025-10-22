@@ -5,6 +5,7 @@
 }
 
 body {
+  max-width: 1200px;
   color: #4d4e53;
   font-family: "Open Sans", "Arial", sans-serif;
   font-size: 0.96em;
@@ -60,7 +61,7 @@ header {
 
 code {
   background-color: #f7f7f7;
-  display: block;
+  display: inline-block;
   padding: 15px;
   margin: 10px 0;
   line-height: 2;
